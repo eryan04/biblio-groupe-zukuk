@@ -10,20 +10,20 @@ Personne ne les a traités. Pour chacun :
 
 ---
 
-**Message 1, de Nadia**
+**Message 1, de Nadia** Ryan
 > jai voulu chercher l'étranger de camus et ça ma sorti plein de texte bizarre et ça sest fermé ???
 
-**Message 2, de Bilal**
+**Message 2, de Bilal** Kerem
 > je suis dans la liste des retards pour Fondation alors que je lai rendu en janvier, c'est quoi ce délire
 
-**Message 3, de Karim**
+**Message 3, de Karim** Ryan
 > la semaine dernière on a prêté le même livre à deux personnes différentes, le logiciel a rien dit
 
-**Message 4, de Lucie**
+**Message 4, de Lucie** Kerem
 > je me suis trompée de numéro d'adhérent en enregistrant un prêt et ça a marché quand même, du coup on sait plus qui a le livre
 
-**Message 5, de Nadia**
+**Message 5, de Nadia** Edvige
 > ce serait trop bien de voir qui a emprunté un livre directement dans la liste des livres
 
-**Message 6, de Théo**
+**Message 6, de Théo** Edvige
 > j'ai enregistré un emprunt hier et le livre apparait pas dans les retards, c'est un bug ?
