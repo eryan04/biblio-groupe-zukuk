@@ -24,6 +24,17 @@ class BiblioTest(unittest.TestCase):
     def test_borrow_unknown_book_fails(self):
         self.assertFalse(biblio.borrow_book(42, 1))
 
+    def test_borrow_unknown_member_fails(self):
+        self.assertFalse(biblio.borrow_book(3, 99))
+        conn = biblio.get_connection()
+        cur = conn.cursor()
+        cur.execute(
+            "SELECT id FROM loans WHERE book_id = ? AND member_id = ?",
+            (3, 99),
+        )
+        self.assertIsNone(cur.fetchone())
+        conn.close()
+
     def test_late_contains_dune(self):
         titles = [row[0] for row in biblio.late()]
         self.assertIn("Dune", titles)
