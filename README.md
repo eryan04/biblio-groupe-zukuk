@@ -1,5 +1,11 @@
-# biblio
+# Biblio
+Ce projet est une application permettant de gérer facilement une collection de livres, conçue pour les bibliothécaires et les passionnés de lecture.
 
-gestion bibliotheque
+## Prérequis
+## Installation
 
-lancer : python biblio.py
+## Utilisation
+## Tests
+## Structure du projet
+## Contribuer
+## Auteurs
