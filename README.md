@@ -15,7 +15,7 @@ Les commandes ci-dessous sont à saisir dans le terminal indiqué au-dessus de c
 
 **Windows — Invite de commandes (Command Prompt)** :
 
-```bat
+```bassh
 py biblio.py init
 ```
 
