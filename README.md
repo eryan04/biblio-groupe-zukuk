@@ -8,7 +8,7 @@ Ce projet est une application permettant de gérer facilement une collection de 
 Ouvrez un terminal à la racine du projet, dans le dossier qui contient `biblio.py`.
 
 - **Windows** : dans l’explorateur de fichiers, ouvrez le dossier du projet, puis utilisez `Repository > Open in Command Prompt` pour ouvrir l’Invite de commandes dans ce dossier.
-- **WSL** : ouvrez votre terminal WSL et placez-vous dans le dossier du projet avec `cd`.
+- **WSL** : ouvrez votre terminal WSL et placez-vous dans le dossier du projet avec `cd biblio-groupe-zukuk`.
 
 ## Utilisation
 
