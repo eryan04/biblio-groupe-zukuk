@@ -2,7 +2,7 @@
 
 - Statut : accepté
 - Date : 2026-10-05
-- Décideurs : équipe Zukuk
+- Décideurs : équipe Zukuk(eryan04 -HOUDAED-krm3z)
 
 ## Contexte
 
