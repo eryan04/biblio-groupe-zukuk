@@ -1,0 +1,5 @@
+# Qui doit relire quoi
+*              @pseudoA @pseudoB @pseudoC
+/docs/         @pseudoA @pseudoC
+/biblio.py     @pseudoA @pseudoB
+/.github/      @pseudoB @pseudoC
