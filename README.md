@@ -205,6 +205,6 @@ Le fichier `biblio.db` est créé à la racine lorsque vous initialisez la base.
 
 ## Contribuer
 ## Auteurs
-RYAN
+RYAN ELQALI
 KEREM
 EDVIGE
